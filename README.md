@@ -12,3 +12,7 @@ $ npm i --save youmeb-lab/lovecode
 var map = require('lovecode').index('name');
 console.log(map['財團法人台灣兒童暨家庭扶助基金會附設彰化縣私立家扶發展學園']);
 ```
+
+## 更新
+
+[youmeb-lab/lovecode-converter](https://github.com/youmeb-lab/lovecode-converter)
